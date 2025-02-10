@@ -1,45 +1,46 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed-leetcode-exercises
 
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+-  Caminhoneiro
+-  Interval Scheduling
+-  Interval Partitioning
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+
+## Exercícios do LeetCode
+
+**Número das Listas**: 435, 871 e 1235 <br>
+**Conteúdo da Disciplina**: Algoritmos ambiciosos<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                          |
+| ---------- | ------------------------------ |
+| 21/1030863 | Maykon Júnio dos Santos Soares |
+| 21/1031735 | Isaac Lucas Souza Bezerra      |
+
+## Sobre
+
+Assista ao vídeo de explicação: [https://drive.google.com/file/d/1yzSscMoR6kP-8oQbpcBeuG6hWfB7Lc0R/view?usp=sharing](https://drive.google.com/file/d/122S7Plc3aciYUeDlU-vYPDRISdA3lml4/view?usp=sharing)
+
+O projeto tem como objetivo resolver alguns exercícios do LeetCode, aplicando os conceitos de Algoritmos ambiciosos visto em aula.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Exercício 871
+-  Utilizando algoritmo caminhoneiro (Travelling Salesman Problem)
+![Image](https://github.com/user-attachments/assets/5edb654b-6136-4c13-ad7f-d76f9873ae4f)
 
 
+Exercício 435
+- Utilizando conceitos de Interval Scheduling e Interval Partitioning para resolução
+![Image](https://github.com/user-attachments/assets/291d3eee-2e66-49b8-9c74-ac6738ee1054)
 
 
+Exercício 1235
+- Utilizando conceitos de Interval Scheduling
+![image](https://github.com/user-attachments/assets/51a392e8-5189-4e1c-a67b-b572994863b5)
+
+## Instalação
+
+**Linguagem**: Typescript<br>
+**Linguagem**: Python 3.10<br>
