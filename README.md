@@ -29,14 +29,14 @@ Exercício 787 - médio
 -  Utilizando algoritmo de bellmanford
 ![Image](https://github.com/user-attachments/assets/9a2932e0-8d83-4d63-a024-c85953c1457b)
 
-
 Exercício 1335 - difícil
 - Utilizando conceitos de knapsack
 ![image](https://github.com/user-attachments/assets/e4bda2f2-9690-4e5a-a9c3-d11f1eae8847)
 
+Exercício 60 - difícil
+- Utilizando conceitos de Alinhamento de sequência
+![image](https://github.com/user-attachments/assets/62cd8558-520e-414f-9e07-9295c4fb483b)
 
-Exercício 1235
-- Utilizando conceitos de 
 
 ## Instalação
 
