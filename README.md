@@ -2,7 +2,7 @@
 
 Temas:
 
--  Mochila
+-  Bellman-ford
 -  
 
 
@@ -25,8 +25,8 @@ Assista ao vídeo de explicação:
 O projeto tem como objetivo resolver alguns exercícios do LeetCode, aplicando os conceitos de programação dinâmica visto em aula.
 
 ## Screenshots
-Exercício 
--  Utilizando algoritmo 
+Exercício 787 - médio
+-  Utilizando algoritmo de bellmanford
 
 
 
