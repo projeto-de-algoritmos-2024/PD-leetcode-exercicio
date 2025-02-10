@@ -3,7 +3,7 @@
 Temas:
 
 -  Bellman-ford
--  
+-  Knapsack (mochila)
 
 
 ## Exercícios do LeetCode
@@ -27,11 +27,12 @@ O projeto tem como objetivo resolver alguns exercícios do LeetCode, aplicando o
 ## Screenshots
 Exercício 787 - médio
 -  Utilizando algoritmo de bellmanford
+![Image](https://github.com/user-attachments/assets/9a2932e0-8d83-4d63-a024-c85953c1457b)
 
 
-
-Exercício
-- Utilizando conceitos de 
+Exercício 1335 - difícil
+- Utilizando conceitos de knapsack
+![image](https://github.com/user-attachments/assets/e4bda2f2-9690-4e5a-a9c3-d11f1eae8847)
 
 
 Exercício 1235
