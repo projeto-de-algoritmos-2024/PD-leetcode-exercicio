@@ -20,7 +20,7 @@ Temas:
 
 ## Sobre
 
-Assista ao vídeo de explicação: 
+Assista ao vídeo de explicação: https://drive.google.com/file/d/18AmQzn_6mxfxA3tK43e8sbZV2evjJj-1/view?usp=sharing
 
 O projeto tem como objetivo resolver alguns exercícios do LeetCode, aplicando os conceitos de programação dinâmica visto em aula.
 
